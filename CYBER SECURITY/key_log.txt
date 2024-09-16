@@ -1,0 +1,4 @@
+ [ENTER] 
+hello [SPACE]  [Key.alt_l] Key.alt_l [TAB] Key.tabKey.tabKey.tabKey.tabKey.tabab [SPACE] 1 [SPACE] 2 [SPACE]  [ENTER] 
+ [ENTER] 
+Key.ctrl_l_l]  [Key.ctrl_l]  [Key.ctrl_l] Key.ctrl_l [Key.ctrl_l] Key.ctrl_l_l] c [Key.right]  [BACKSPACE] 4 [ENTER] 
